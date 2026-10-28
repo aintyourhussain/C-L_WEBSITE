@@ -1,0 +1,21 @@
+{
+  "name": "cl-truck-express-website",
+  "version": "1.0.0",
+  "description": "C&L Truck Express - Nationwide freight transportation website",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "echo 'Development server not configured - open HTML files directly'",
+    "build": "echo 'Build complete - static HTML site ready for deployment'"
+  },
+  "keywords": [
+    "trucking",
+    "freight",
+    "transportation"
+  ],
+  "author": "C&L Truck Express",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
